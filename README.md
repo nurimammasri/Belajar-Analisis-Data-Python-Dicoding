@@ -98,14 +98,4 @@ Setelah Anda melakukan deploy ke platform seperti Streamlit Cloud, tambahkan tau
 **URL Dashboard Publik:**
 👉 https\://\[tautan-dashboard-anda].streamlit.app/
 
-# 📞 Kontak & Informasi Tambahan
-
-Jika Anda memiliki pertanyaan, silakan hubungi saya:
-
-* 📧 Email: \[[nurimammasri.01@gmail.com](mailto:nurimammasri.01@gmail.com)]
-* 💼 LinkedIn: \[tautan-linkedin-anda]
-* 💻 GitHub: \[tautan-github-anda]
-
----
-
 Terima kasih telah membaca dokumentasi ini. Semoga proyek ini memberikan wawasan baru mengenai data penyewaan sepeda! 🚲📊
