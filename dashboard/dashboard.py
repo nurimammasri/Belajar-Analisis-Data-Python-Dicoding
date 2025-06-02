@@ -417,5 +417,3 @@ st.markdown("""
 - **Interaksi Pola Jam, Musim, Tipe Hari:** Pola dasar komuter dan rekreasi per jam dimodifikasi oleh kondisi musiman.
 - **Clustering Penggunaan Bulanan:** Efektif mengelompokkan bulan berdasarkan volume penggunaan, berguna untuk perencanaan.
 """)
-
-st.caption("Dashboard dibuat berdasarkan analisis dari notebook Jupyter.")
