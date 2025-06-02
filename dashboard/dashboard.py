@@ -10,8 +10,8 @@ sns.set(style='darkgrid')
 # --- Fungsi Pemuatan dan Pemfilteran Data ---
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("dashboard_main_data_day.csv")
-    hour_df = pd.read_csv("dashboard_main_data_hour.csv")
+    day_df = pd.read_csv("https://raw.githubusercontent.com/nurimammasri/Belajar-Analisis-Data-Python-Dicoding/refs/heads/main/dashboard/dashboard_main_data_day.csv")
+    hour_df = pd.read_csv("https://raw.githubusercontent.com/nurimammasri/Belajar-Analisis-Data-Python-Dicoding/refs/heads/main/dashboard/dashboard_main_data_hour.csv")
     
     # Pastikan kolom tanggal berformat datetime
     day_df['date'] = pd.to_datetime(day_df['date'])
